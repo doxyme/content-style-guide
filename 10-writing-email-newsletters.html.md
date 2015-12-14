@@ -7,13 +7,13 @@ We send a lot of email ourselves, and we follow our own best practices to set an
 
 ## Basics
 
-Our email newsletters help empower and inform MailChimp users. Here are the most common types of content we send by email:
+Our email newsletters help empower and inform doxy.me users. Here are the most common types of content we send by email:
 
 - Product and feature announcements
 - Tips for getting the most out of existing products and features
 - Regular monthly newsletters
-- Industry-based newsletters (MailChimp for Nonprofits)
-- Automated series (Getting Started with MailChimp)
+- Industry-based newsletters (doxy.me for Nonprofits)
+- Automated series (Getting Started with doxy.me)
 - Event invitations and information about online courses
 - System alerts about changes to functionality or scheduled maintenance
 - Internal newsletters
@@ -52,7 +52,7 @@ All campaigns follow [CAN-SPAM rules](http://kb.mailchimp.com/accounts/complianc
 
 ### Consider your perspective
 
-When sending an email newsletter from MailChimp, use the third person “we.” When sending a newsletter as an individual, use the first person.
+When sending an email newsletter from doxy.me, use the third person “we.” When sending a newsletter as an individual, use the first person.
 
 ### Use a hierarchy
 Most readers will be scanning your emails or viewing them on a small screen. Put the most important information first.

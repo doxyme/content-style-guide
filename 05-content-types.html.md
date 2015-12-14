@@ -3,7 +3,7 @@ title: Content Types
 layout: article
 ---
 
-Content at MailChimp takes many forms. Here’s a rundown of the types of content we most often write, the functions they serve, and the teams that handle them.
+Content at doxy.me takes many forms. Here’s a rundown of the types of content we most often write, the functions they serve, and the teams that handle them.
 
 ## Short
 
@@ -30,10 +30,10 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Social media
 
-**What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable MailChimp users, and more  
+**What:** Posts on Twitter, Facebook, Instagram, and LinkedIn that highlight blog posts, events, notable doxy.me users, and more  
 **Length:** 20-30 words  
 **Owner:** Marketing, support  
-**Example:** Wilco used MailChimp's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)<br>
+**Example:** Wilco used doxy.me's automation tools to release their new album. Here's how: [http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/](http://blog.mailchimp.com/how-wilco-used-mailchimp-automation-to-release-its-new-album/)<br>
 **See also:** [Writing for social media](/11-writing-for-social-media.html.md)
 
 ### Success message
@@ -54,7 +54,7 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Integration directory description
 
-**What:** Easily scannable descriptions of web services that integrate with MailChimp  
+**What:** Easily scannable descriptions of web services that integrate with doxy.me  
 **Length:** 100-400 words  
 **Owner:** Integrations  
 **Example:** [Power BI](https://connect.mailchimp.com/integrations/power-bi) 
@@ -71,7 +71,7 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 **What:** Messaging that markets our features and products to users and potential users  
 **Length:** 10-1,000 words  
 **Owner:** Marketing  
-**Example:** Join more than 8 million people who use MailChimp to design and send 600 million emails every day.
+**Example:** Join more than 8 million people who use doxy.me to design and send 600 million emails every day.
 
 ### System alert
 
@@ -90,7 +90,7 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Blog post
 
-**What:** Informative articles about MailChimp users, features, and announcements  
+**What:** Informative articles about doxy.me users, features, and announcements  
 **Length:** 400-800 words  
 **Owner:** Marketing  
 **Example:** [How We Use Facebook Custom Audiences for Our Marketing](https://blog.mailchimp.com/how-we-use-facebook-custom-audiences-for-our-marketing/)<br>
@@ -114,7 +114,7 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Legal content
 
-**What:** Policies that explain how we protect user privacy, how we handle accounts, and what users can and can’t do with MailChimp  
+**What:** Policies that explain how we protect user privacy, how we handle accounts, and what users can and can’t do with doxy.me  
 **Length:** 1,000-4,000 words  
 **Owner:** Legal  
 **Example:** [Legal: Terms of Use](http://mailchimp.com/legal/terms/)<br>
@@ -122,17 +122,17 @@ Content at MailChimp takes many forms. Here’s a rundown of the types of conten
 
 ### Marketing guide
 
-**What:** In-depth resources that show new and prospective users how to use MailChimp and grow their business
+**What:** In-depth resources that show new and prospective users how to use doxy.me and grow their business
 **Length:** 2,000-5,000 words  
 **Owner:** Marketing  
-**Example:** [Getting Started with MailChimp](http://mailchimp.com/resources/guides/getting-started-with-mailchimp/)  
+**Example:** [Getting Started with doxy.me](http://mailchimp.com/resources/guides/getting-started-with-mailchimp/)  
 
 ### Press release
 
 **What:** Quick, informative announcements that we send to [our media list](http://mailchimp.us6.list-manage.com/subscribe?u=4c5c956741&id=8f96c922d0) and post to [our Press Releases page](http://mailchimp.com/about/press-releases/).  
 **Length:** 300-500 words  
 **Owner:** Marketing  
-**Example:** [MailChimp Hits Milestone 10 Billion Emails Per Month; Adding Headcount and Office Space](http://mailchimp.com/about/press-releases/2014-06-03/)  
+**Example:** [doxy.me Hits Milestone 10 Billion Emails Per Month; Adding Headcount and Office Space](http://mailchimp.com/about/press-releases/2014-06-03/)  
 
 
 
