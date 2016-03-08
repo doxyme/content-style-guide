@@ -67,7 +67,7 @@ They’re great! They give your writing an informal, friendly tone. In most case
 
 ### Emoji
 
-Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
+Emoji are a fun way to add humor and visual interest to your writing, but use them *very* infrequently and deliberately.
 
 ### Numbers
 
@@ -149,7 +149,7 @@ Use a hyphen between times to indicate a time period. 
 
 - 7am-10:30pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since doxy.me is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. Since doxy.me is in New York, we default to ET.
 
 Abbreviate time zones within the continental United States as follows:
 
@@ -328,18 +328,17 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about doxy.me
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "doxy.me." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "doxy.me."
+Our company's legal entity name is "Doxy.me, LLC." Our trade name is "doxy.me." Use "Doxy.me, LLC" only when writing legal documents or contracts. Otherwise, use "doxy.me."
 
-Always capitalize the first “M” and the “C” in doxy.me.
+Always lowercase the first “d” in doxy.me unless using it at the beginning of a sentence.
 
 Refer to doxy.me as “we,” not “it.”
 
-Capitalize the proper names of doxy.me products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "doxy.me" in the name on first mention.
+Capitalize the proper names of doxy.me products, features, pages, and tools. When referencing non-trademarked products like Individual, Professional, and Clinic/Enterprise, include "doxy.me" in the name on first mention.
 
-- doxy.me Pro
-- doxy.me Snap
-- Inbox Inspector
-- Look What You Can Do
+- doxy.me Individual
+- doxy.me Professional
+- doxy.me Clinic/Enterprise
 
 #### Writing about other companies
 
@@ -367,7 +366,7 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 Use italics when citing an example of an in-app doxy.me element, or referencing button and navigation labels in step-by-step instructions:
 
 - When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
+- The *Waiting Room* is where you send your patients so they can *check-in* and let you know they are there.
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 

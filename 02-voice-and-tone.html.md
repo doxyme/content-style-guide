@@ -31,9 +31,9 @@ One way to think of our voice is to compare what it is to what it isn’t. doxy.
 
 ## Tone
 
-doxy.me’s tone is usually informal, but it’s always more important to be clear than entertaining. When you’re writing, consider the reader’s state of mind. Are they relieved to be finished with a campaign? Are they confused and seeking our help on Twitter? Are they curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.
+doxy.me’s tone is usually 'business casual'. We want to look good and sound intelligent, but not at the expense of making things more complicated than needed. When you’re writing, consider the reader’s state of mind. Are they frustrated at the system not working? Are they confused and seeking our help on the platform? Are they curious about a post on our blog? Once you have an idea of their emotional state, you can adjust your tone accordingly.
 
-doxy.me has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
+doxy.me has a sense of humor, so feel free to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke; forced humor can be worse than none at all. If you’re unsure, keep a straight face. A good rule-of-thumb is to only start joking when the customer starts first. 
 
 ## Style tips
 
@@ -43,6 +43,3 @@ Here are a few key elements of writing doxy.me’s voice. For more, see the [Gra
 * [**Avoid slang and jargon**](/04-grammar-and-mechanics.html.md/#header-3-slang-and-jargon) Write in plain English.
 * [**Write positively**](/04-grammar-and-mechanics.html.md/#header-3-write-positively) Use positive language rather than negative language.
 
-## A note about 
-
-is doxy.me's mascot. He’s been around in various forms since the company's beginning, and he captures the spirit of our brand’s personality. He smiles, winks, and sometimes high-fives, but he does not talk. Don't write in his voice. For more on how to use Freddie, see our [Brand Assets](http://mailchimp.com/about/brand-assets/).

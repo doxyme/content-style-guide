@@ -3,7 +3,7 @@ title: Welcome to the doxy.me Content Style Guide
 layout: article
 ---
 
-This style guide was created for doxy.me employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was copied from mailchimp for doxy.me employees, but we hope it’s helpful for other content and communications teams too.
 
 ## If you work at doxy.me
 
