@@ -34,6 +34,7 @@ These words can be slippery. Here’s how we write them.
 - opt-in (noun, adjective) , opt in (verb)
 - pop-up (noun, adjective), pop up (verb)
 - signup (noun, adjective), sign up (verb)
+- checkin (noun, adjective), check in (verb)
 - sync
 - tweet, retweet
 - username
